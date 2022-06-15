@@ -1,0 +1,15 @@
+<Universe>
+    <galaxyies>
+        <galaxy>Milky Way</galaxy>
+        <galaxy type="Irr">Canis_Major_Dwarf</galaxy>
+        <galaxy Satellite_of="Milky Way">DracoII</galaxy>
+        <galaxy Satellite_of="Milky Way that is being tidally disrupted">TucanaIII</galaxy>
+    </galaxyies>
+    <black_holes>
+        <Ton618>mass_6.6×1010"</Ton618>
+        <NGC6166>mass_3×1010</NGC6166>
+    </black_holes>
+    <Quasar>
+        <Twin_Quasar lens="YGKOW_G1" notes="First gravitationally lensed object discovered"/>
+    </Quasar>
+</Universe>

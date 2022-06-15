@@ -1,0 +1,39 @@
+{
+  "People": [
+    {
+      "type": "human",
+      "name": "Igor",
+      "years": 25,
+      "current city": "Amsterdam",
+      "profession": "groomer"
+    },
+    {
+      "type": "human",
+      "name": "Tina",
+      "years": 26,
+      "current city": "Kyiv",
+      "profession": "cynologist"
+    },
+    {
+      "type": "human",
+      "name": "Tanya",
+      "years": 30,
+      "current city": "Krakow",
+      "profession": "hairdresser"
+    },
+    {
+      "type": "human",
+      "name": "Lina",
+      "years": 29,
+      "current city": "Barcelona",
+      "profession": "dancer"
+    },
+    {
+      "type": "human",
+      "name": "Anika",
+      "years": 19,
+      "current city": "Berlin",
+      "profession": "blogger"
+    }
+  ]
+}
